@@ -1,0 +1,5 @@
+PackageName: glibc
+FilePath: /usr/lib/ld-linux-x86-64.so.2
+BuildID: 00533e02b9fd7c40dde8cbc3b1bd4d71848cfb40
+Version: 2.43+r22+g8362e8ce10b2-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-00533e02b9fd7c40dde8cbc3b1bd4d71848cfb40/debuginfo
