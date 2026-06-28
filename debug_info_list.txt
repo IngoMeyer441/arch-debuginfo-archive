@@ -1738,3 +1738,1737 @@ BuildID: 595c81d52b105a9cf4ffcd4b622da543ff2633f0
 Version: 2.43+r22+g8362e8ce10b2-2
 URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-595c81d52b105a9cf4ffcd4b622da543ff2633f0/debuginfo
 
+PackageName: glibc
+FilePath: /usr/bin/gencat
+BuildID: 64a542d3aa1116d5a189d4acb9310164fc05cb5b
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-64a542d3aa1116d5a189d4acb9310164fc05cb5b/debuginfo
+
+PackageName: glibc
+FilePath: /usr/bin/getent
+BuildID: d8793d84f2e48f07e6d0aa20b95974327a1768e4
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-d8793d84f2e48f07e6d0aa20b95974327a1768e4/debuginfo
+
+PackageName: glibc
+FilePath: /usr/bin/iconv
+BuildID: f612463fbb8ff1c95f9fee11f151c888cad34a4d
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-f612463fbb8ff1c95f9fee11f151c888cad34a4d/debuginfo
+
+PackageName: glibc
+FilePath: /usr/bin/iconvconfig
+BuildID: de02ceddfa7a13d0ce1801f2a3ed1461a7426d0d
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-de02ceddfa7a13d0ce1801f2a3ed1461a7426d0d/debuginfo
+
+PackageName: glibc
+FilePath: /usr/bin/ldconfig
+BuildID: 7765a46eddf19755a2e6e64f43e47a9712322286
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-7765a46eddf19755a2e6e64f43e47a9712322286/debuginfo
+
+PackageName: glibc
+FilePath: /usr/bin/locale
+BuildID: 5d95b9a551e445d4962528e5cac8faddf3fe9407
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-5d95b9a551e445d4962528e5cac8faddf3fe9407/debuginfo
+
+PackageName: glibc
+FilePath: /usr/bin/localedef
+BuildID: c229a441e8a315b2e887b38783ff395258f6c6af
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-c229a441e8a315b2e887b38783ff395258f6c6af/debuginfo
+
+PackageName: glibc
+FilePath: /usr/bin/makedb
+BuildID: 8a5248523451decae99ec43cb55b857eb37672e2
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-8a5248523451decae99ec43cb55b857eb37672e2/debuginfo
+
+PackageName: glibc
+FilePath: /usr/bin/memusagestat
+BuildID: ebcbdb0c729569298233ba0e4a965b6d8f0bb06b
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-ebcbdb0c729569298233ba0e4a965b6d8f0bb06b/debuginfo
+
+PackageName: glibc
+FilePath: /usr/bin/pcprofiledump
+BuildID: 372a45abdd7fb8f7e8bff83633bd861b93ed3841
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-372a45abdd7fb8f7e8bff83633bd861b93ed3841/debuginfo
+
+PackageName: glibc
+FilePath: /usr/bin/pldd
+BuildID: 5ce156148631ef80e65256357a2d955210ea73d1
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-5ce156148631ef80e65256357a2d955210ea73d1/debuginfo
+
+PackageName: glibc
+FilePath: /usr/bin/sln
+BuildID: bde5bfe1e7e659118f08c22e9c5e34fd246be503
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-bde5bfe1e7e659118f08c22e9c5e34fd246be503/debuginfo
+
+PackageName: glibc
+FilePath: /usr/bin/sprof
+BuildID: 42106ca47ed29e3f5525fb0723ee112bb93dd7bf
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-42106ca47ed29e3f5525fb0723ee112bb93dd7bf/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/audit/sotruss-lib.so
+BuildID: 4f082d88e674bc4c0c7aa89c739038a6092df70f
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-4f082d88e674bc4c0c7aa89c739038a6092df70f/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ANSI_X3.110.so
+BuildID: bb0af4494fd03bd450b69699dcd6a2e33d19bda0
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-bb0af4494fd03bd450b69699dcd6a2e33d19bda0/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ARMSCII-8.so
+BuildID: b051eb7b815f03d180c94de53d574fffd706b416
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-b051eb7b815f03d180c94de53d574fffd706b416/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ASMO_449.so
+BuildID: 7cfcb2caa606c6f274aae0eb4b4e614305a62a12
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-7cfcb2caa606c6f274aae0eb4b4e614305a62a12/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/BIG5.so
+BuildID: 671df7dd5e48221157ecf118e1329857cbc034d3
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-671df7dd5e48221157ecf118e1329857cbc034d3/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/BIG5HKSCS.so
+BuildID: 59b31d2ea85fc793312a4bcccd848e84dc7afe3e
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-59b31d2ea85fc793312a4bcccd848e84dc7afe3e/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/BRF.so
+BuildID: 22111cd18c1393f9f14b831b028961fc17542ed0
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-22111cd18c1393f9f14b831b028961fc17542ed0/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/CP10007.so
+BuildID: 4d53f3d663bdb7003b7a973d1de775bc39273e0f
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-4d53f3d663bdb7003b7a973d1de775bc39273e0f/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/CP1125.so
+BuildID: 74f2435c40b57a9823cf55a2a7eac6d0c697cc29
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-74f2435c40b57a9823cf55a2a7eac6d0c697cc29/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/CP1250.so
+BuildID: 294dca8d51b4d06b5d01d5cc11b7e18fe845bcdb
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-294dca8d51b4d06b5d01d5cc11b7e18fe845bcdb/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/CP1251.so
+BuildID: 08ac66273902603ad6b66213866614705aa584d0
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-08ac66273902603ad6b66213866614705aa584d0/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/CP1252.so
+BuildID: 70971017e0232edd2512ccd7f0c1a651f6303cd1
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-70971017e0232edd2512ccd7f0c1a651f6303cd1/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/CP1253.so
+BuildID: 64fac361e0160ea9fc65c69d5dc56d6183ecaa20
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-64fac361e0160ea9fc65c69d5dc56d6183ecaa20/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/CP1254.so
+BuildID: 94b83e0c107c44a24155a21b2112164632a7cd57
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-94b83e0c107c44a24155a21b2112164632a7cd57/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/CP1255.so
+BuildID: efa855b110dc4ef8cac33270b3785d8599ab84f9
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-efa855b110dc4ef8cac33270b3785d8599ab84f9/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/CP1256.so
+BuildID: 585a19b32b6b4689f6244b2d6b11a3e2163b6951
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-585a19b32b6b4689f6244b2d6b11a3e2163b6951/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/CP1257.so
+BuildID: 4ddcb41384db1ef17dfa8be546ad6fd25e5f0faf
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-4ddcb41384db1ef17dfa8be546ad6fd25e5f0faf/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/CP1258.so
+BuildID: 0b81a9fea1fc19a2da530c5265953c0438448c6c
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-0b81a9fea1fc19a2da530c5265953c0438448c6c/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/CP737.so
+BuildID: 4c313cadf8ad210894c8091c680a788cc1e39d39
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-4c313cadf8ad210894c8091c680a788cc1e39d39/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/CP770.so
+BuildID: cc6f15914ca4d5dbdbcce1441885dfc1e0153644
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-cc6f15914ca4d5dbdbcce1441885dfc1e0153644/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/CP771.so
+BuildID: 3c69d36b0732b29001b51bf188170d3f22a9a3e5
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-3c69d36b0732b29001b51bf188170d3f22a9a3e5/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/CP772.so
+BuildID: 03d4ca3ff6c9364cc3bb6255d41923d2f8e91ca0
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-03d4ca3ff6c9364cc3bb6255d41923d2f8e91ca0/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/CP773.so
+BuildID: 829f35138f60aed30b74320c3fcdaa5c6ad1e2b7
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-829f35138f60aed30b74320c3fcdaa5c6ad1e2b7/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/CP774.so
+BuildID: 07bf56d3bba146782651689fbd002cabff54e03c
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-07bf56d3bba146782651689fbd002cabff54e03c/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/CP775.so
+BuildID: 97b2a5407252384d95502061ebf8c245076edb13
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-97b2a5407252384d95502061ebf8c245076edb13/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/CP932.so
+BuildID: 5e333dd03ec143122c4f1487bc01982ccf804085
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-5e333dd03ec143122c4f1487bc01982ccf804085/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/CSN_369103.so
+BuildID: 72f93c6673cd2c39711dc078afb48c47be2165fb
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-72f93c6673cd2c39711dc078afb48c47be2165fb/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/CWI.so
+BuildID: 0e9e6e21c67af1176d065a1fb7af3d142c0bcdea
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-0e9e6e21c67af1176d065a1fb7af3d142c0bcdea/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/DEC-MCS.so
+BuildID: 6d64f38a6acbb6cdc6f27e8f3199cd29a41cad4a
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-6d64f38a6acbb6cdc6f27e8f3199cd29a41cad4a/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/EBCDIC-AT-DE-A.so
+BuildID: 9b5e75710f485c5f464c21f72aa7385bb3522f9d
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-9b5e75710f485c5f464c21f72aa7385bb3522f9d/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/EBCDIC-AT-DE.so
+BuildID: c17afefbb5cc389f0536ec94402e6d200952484c
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-c17afefbb5cc389f0536ec94402e6d200952484c/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/EBCDIC-CA-FR.so
+BuildID: d8f11eb6ce834382417761a7aba8af18c91d40f7
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-d8f11eb6ce834382417761a7aba8af18c91d40f7/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/EBCDIC-DK-NO-A.so
+BuildID: e58872ef58f3bd5647a365a1dafc1064a2120188
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-e58872ef58f3bd5647a365a1dafc1064a2120188/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/EBCDIC-DK-NO.so
+BuildID: fcc718023f31dbe56d1a26c8d10abce8c70b676a
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-fcc718023f31dbe56d1a26c8d10abce8c70b676a/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/EBCDIC-ES-A.so
+BuildID: 33461aa3e2709cc9cea808797d31959a760616b3
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-33461aa3e2709cc9cea808797d31959a760616b3/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/EBCDIC-ES-S.so
+BuildID: 744afd4aba0dc2c321541d2d2f19179373b1e587
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-744afd4aba0dc2c321541d2d2f19179373b1e587/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/EBCDIC-ES.so
+BuildID: 23ce09575e4d867824a77f7042163acedb34e5b0
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-23ce09575e4d867824a77f7042163acedb34e5b0/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/EBCDIC-FI-SE-A.so
+BuildID: f43215fb1a29da9cb04455cd79d153cbfac7f308
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-f43215fb1a29da9cb04455cd79d153cbfac7f308/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/EBCDIC-FI-SE.so
+BuildID: 94361da2ed057a3381eba6a6114b6e5afc780cd0
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-94361da2ed057a3381eba6a6114b6e5afc780cd0/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/EBCDIC-FR.so
+BuildID: 76c605ae56125fd918d7932c164c00ab115f8a96
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-76c605ae56125fd918d7932c164c00ab115f8a96/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/EBCDIC-IS-FRISS.so
+BuildID: a1b30a0c59a1d7ff57ee8d0d1b566dfe418b5230
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-a1b30a0c59a1d7ff57ee8d0d1b566dfe418b5230/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/EBCDIC-IT.so
+BuildID: 5ed6395421f17fe0ad9a177f3b218854e74ed0f6
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-5ed6395421f17fe0ad9a177f3b218854e74ed0f6/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/EBCDIC-PT.so
+BuildID: c5659d79ef3ad2e07f87add28044259406e7b706
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-c5659d79ef3ad2e07f87add28044259406e7b706/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/EBCDIC-UK.so
+BuildID: abbb2eddd8340e48e7133d80d659b105dbcc3831
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-abbb2eddd8340e48e7133d80d659b105dbcc3831/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/EBCDIC-US.so
+BuildID: 5db416c1fd126eee6cc5fc2de172255189f1afaf
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-5db416c1fd126eee6cc5fc2de172255189f1afaf/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ECMA-CYRILLIC.so
+BuildID: 70e8c5d7e4e1eea7adad67bc734817cedfc052fd
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-70e8c5d7e4e1eea7adad67bc734817cedfc052fd/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/EUC-CN.so
+BuildID: 832a1e53a91bbe93f54cb740292faf7b64aae7ba
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-832a1e53a91bbe93f54cb740292faf7b64aae7ba/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/EUC-JISX0213.so
+BuildID: 46fa8a0e2145acc6814e039fdab61725ba193ff5
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-46fa8a0e2145acc6814e039fdab61725ba193ff5/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/EUC-JP-MS.so
+BuildID: c0f265f8a20d27715d21bcc710797f5799b0d7a6
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-c0f265f8a20d27715d21bcc710797f5799b0d7a6/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/EUC-JP.so
+BuildID: ba097dc66f6f241ec08ebe8f4444a97786c6d3d5
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-ba097dc66f6f241ec08ebe8f4444a97786c6d3d5/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/EUC-KR.so
+BuildID: 5c1eeebe66ad80a29f92d9a2dc47b3febe34610b
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-5c1eeebe66ad80a29f92d9a2dc47b3febe34610b/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/EUC-TW.so
+BuildID: 725e5424902fa2a22d8baf7ac17efc7c1511049f
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-725e5424902fa2a22d8baf7ac17efc7c1511049f/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/GB18030.so
+BuildID: 1cf9a4efc169e4a1bcdf22e475007b064bdaa8ee
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-1cf9a4efc169e4a1bcdf22e475007b064bdaa8ee/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/GBBIG5.so
+BuildID: 05a965d3f77c1a3551d341bad04b2027f492b9c7
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-05a965d3f77c1a3551d341bad04b2027f492b9c7/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/GBGBK.so
+BuildID: b88a73e0600d41ce317d3c1aec6f9f404752b20c
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-b88a73e0600d41ce317d3c1aec6f9f404752b20c/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/GBK.so
+BuildID: 3c9eb55f6802955fe292f1dae4a5a6dc3234f465
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-3c9eb55f6802955fe292f1dae4a5a6dc3234f465/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/GEORGIAN-ACADEMY.so
+BuildID: 40c1188fb059ae19e4cb5d578701ce46186baad0
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-40c1188fb059ae19e4cb5d578701ce46186baad0/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/GEORGIAN-PS.so
+BuildID: 14ce8b15590da34ef26ba418d8e39b15f3ca25b1
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-14ce8b15590da34ef26ba418d8e39b15f3ca25b1/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/GOST_19768-74.so
+BuildID: 1acf5e1f87110be5a970b67409355c73c3f4c491
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-1acf5e1f87110be5a970b67409355c73c3f4c491/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/GREEK-CCITT.so
+BuildID: 91205284b22fb16a19807bd9c938b13d89e7bec3
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-91205284b22fb16a19807bd9c938b13d89e7bec3/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/GREEK7-OLD.so
+BuildID: 12ae5a9b83c64cc992387be7453d5ba99aa50914
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-12ae5a9b83c64cc992387be7453d5ba99aa50914/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/GREEK7.so
+BuildID: ce2eaec787c24bcf4421e24aa9b600bf0269646c
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-ce2eaec787c24bcf4421e24aa9b600bf0269646c/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/HP-GREEK8.so
+BuildID: d804c651fe798d5f3e646da1f45201e1c9d72fca
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-d804c651fe798d5f3e646da1f45201e1c9d72fca/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/HP-ROMAN8.so
+BuildID: b33bcbcee47c16722ed3512b4b8ce69e04936613
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-b33bcbcee47c16722ed3512b4b8ce69e04936613/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/HP-ROMAN9.so
+BuildID: eb3b8437f00483ba287f5eb457177554a2d23bbf
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-eb3b8437f00483ba287f5eb457177554a2d23bbf/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/HP-THAI8.so
+BuildID: 2138de0ac586b06dff5bf4890576d5e2cfe400e3
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-2138de0ac586b06dff5bf4890576d5e2cfe400e3/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/HP-TURKISH8.so
+BuildID: dae424f3df01ec7e8a7ee6951e16c78b08e855a3
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-dae424f3df01ec7e8a7ee6951e16c78b08e855a3/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM037.so
+BuildID: 187e8b3711ba41a7f310f6e65927a0fade638329
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-187e8b3711ba41a7f310f6e65927a0fade638329/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM038.so
+BuildID: eacdf74b871c9d6d38780159cae3177652510a8c
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-eacdf74b871c9d6d38780159cae3177652510a8c/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1004.so
+BuildID: 7cf668ff84811fff62bd791cd94379e39ad92fd8
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-7cf668ff84811fff62bd791cd94379e39ad92fd8/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1008.so
+BuildID: bc3472e9b1ac60656f437be1df4e9da1ffa8c09b
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-bc3472e9b1ac60656f437be1df4e9da1ffa8c09b/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1008_420.so
+BuildID: 395c99027516ba84165faf503f84773b20079139
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-395c99027516ba84165faf503f84773b20079139/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1025.so
+BuildID: 2e48f3454c3e26fa36ba444160aea69c7bff9e55
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-2e48f3454c3e26fa36ba444160aea69c7bff9e55/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1026.so
+BuildID: 2e085f2939bd792c5a36af3fcf6494eb77ade4b3
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-2e085f2939bd792c5a36af3fcf6494eb77ade4b3/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1046.so
+BuildID: a731d72c924efa6b329462b6627ba69039f4fcad
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-a731d72c924efa6b329462b6627ba69039f4fcad/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1047.so
+BuildID: 918b5c68ebeb85358c79390fded44ab71ea5ab28
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-918b5c68ebeb85358c79390fded44ab71ea5ab28/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1097.so
+BuildID: 7b3082257d62f7947497341d659560569df3007e
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-7b3082257d62f7947497341d659560569df3007e/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1112.so
+BuildID: 588a9b7fd581c35962c4a80acb94c3c992ddfe96
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-588a9b7fd581c35962c4a80acb94c3c992ddfe96/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1122.so
+BuildID: 2f8073a98bb0cece3fbedab531970d1a3ceb52f3
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-2f8073a98bb0cece3fbedab531970d1a3ceb52f3/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1123.so
+BuildID: 890e6d4982bb366ffec7a366dbce8a44f909ad55
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-890e6d4982bb366ffec7a366dbce8a44f909ad55/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1124.so
+BuildID: f76dd28608068136b1f5439a8528b5dfd87a3f1b
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-f76dd28608068136b1f5439a8528b5dfd87a3f1b/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1129.so
+BuildID: 00ef58a0b857af25241f8cba69fe94accfbfe50b
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-00ef58a0b857af25241f8cba69fe94accfbfe50b/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1130.so
+BuildID: 3a43db1636b15f1683ad684b5669b8d4f69627d7
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-3a43db1636b15f1683ad684b5669b8d4f69627d7/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1132.so
+BuildID: 0bf10db13959199c60cef67799de7545a59e0e14
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-0bf10db13959199c60cef67799de7545a59e0e14/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1133.so
+BuildID: d69c5f53662f04a4a639c8211e58549a8aac4c0a
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-d69c5f53662f04a4a639c8211e58549a8aac4c0a/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1137.so
+BuildID: 29c7d5e908ef5954505036d6a171193aa4ab6c28
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-29c7d5e908ef5954505036d6a171193aa4ab6c28/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1140.so
+BuildID: c71c6f86d9097ca9528fa7ae372f2310f16b8d5f
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-c71c6f86d9097ca9528fa7ae372f2310f16b8d5f/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1141.so
+BuildID: 90546d50ada6c644ea2d09c592ae2169eb3c1259
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-90546d50ada6c644ea2d09c592ae2169eb3c1259/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1142.so
+BuildID: 920a9b631e0c2a3d296cdf11f975c165497a3e7d
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-920a9b631e0c2a3d296cdf11f975c165497a3e7d/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1143.so
+BuildID: 5ebe3a1d7ff4d2929c170457f5fe92e74e523e1c
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-5ebe3a1d7ff4d2929c170457f5fe92e74e523e1c/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1144.so
+BuildID: 363b4c1f397a288b1e5213965043c45ac5ee0ad8
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-363b4c1f397a288b1e5213965043c45ac5ee0ad8/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1145.so
+BuildID: 189bde1f9d4ebd7387eadeae7db1fd09ffb0eb77
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-189bde1f9d4ebd7387eadeae7db1fd09ffb0eb77/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1146.so
+BuildID: 87120ed5978a0cda7c517aa6b16c9c84efa4ead2
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-87120ed5978a0cda7c517aa6b16c9c84efa4ead2/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1147.so
+BuildID: 2f9d8b8f01509817fb75c3d126b6066a71cdb392
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-2f9d8b8f01509817fb75c3d126b6066a71cdb392/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1148.so
+BuildID: 255fd2ec161634ac2d042c106c07f2caefe14edc
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-255fd2ec161634ac2d042c106c07f2caefe14edc/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1149.so
+BuildID: ce0cc4fc54bc1d22967a5c1de95883fc2dc76314
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-ce0cc4fc54bc1d22967a5c1de95883fc2dc76314/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1153.so
+BuildID: f5731299f6f2208b9a5bcfd73084864e3b662efd
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-f5731299f6f2208b9a5bcfd73084864e3b662efd/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1154.so
+BuildID: fd32299f3963a4f30aebc6b870097b965dd2eb43
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-fd32299f3963a4f30aebc6b870097b965dd2eb43/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1155.so
+BuildID: 8b00d90bd7299ea95aa3e2c53cac54051bb26998
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-8b00d90bd7299ea95aa3e2c53cac54051bb26998/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1156.so
+BuildID: b16eb7bb9ded1447bc2d835dcbfdce6c3b19030b
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-b16eb7bb9ded1447bc2d835dcbfdce6c3b19030b/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1157.so
+BuildID: 890a3d21c0d39596704e2f919948433a25813b62
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-890a3d21c0d39596704e2f919948433a25813b62/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1158.so
+BuildID: 0128d92f7ff975d5dedf30a44da09f0a8dd84687
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-0128d92f7ff975d5dedf30a44da09f0a8dd84687/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1160.so
+BuildID: b12af96a9ca856df90156b99f14b1470ab74f1d7
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-b12af96a9ca856df90156b99f14b1470ab74f1d7/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1161.so
+BuildID: d99eba9e66026b5c747e5d96cf4bfffc618161ce
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-d99eba9e66026b5c747e5d96cf4bfffc618161ce/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1162.so
+BuildID: 41a38adac0fd4815b2865bb5381bd40460b7ad51
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-41a38adac0fd4815b2865bb5381bd40460b7ad51/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1163.so
+BuildID: a5d911b64bfd15e442c49971f295e50717d110ea
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-a5d911b64bfd15e442c49971f295e50717d110ea/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1164.so
+BuildID: 857f0c03c1c4a85d792c5f0ecbad4a25a457e566
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-857f0c03c1c4a85d792c5f0ecbad4a25a457e566/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1166.so
+BuildID: f70ff20415730669b33a9c772a2f30e1a86ef30f
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-f70ff20415730669b33a9c772a2f30e1a86ef30f/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1167.so
+BuildID: 1b3174b02f3878c95b0211f3eb045880735fe3db
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-1b3174b02f3878c95b0211f3eb045880735fe3db/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM12712.so
+BuildID: af60191f6e0c885bcdf90b5c58738e4244a19f17
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-af60191f6e0c885bcdf90b5c58738e4244a19f17/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1364.so
+BuildID: 8a443903dce4075f5a4a764cc645a08f824526b2
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-8a443903dce4075f5a4a764cc645a08f824526b2/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1371.so
+BuildID: 04107645056f40e3841f21c91f5e9457232b0e80
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-04107645056f40e3841f21c91f5e9457232b0e80/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1388.so
+BuildID: 277f98303f1f11887865ae010406c0ea25ee353c
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-277f98303f1f11887865ae010406c0ea25ee353c/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1390.so
+BuildID: 022cbd9f9448b5519ea9d8685ab3ddff6e62ff9b
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-022cbd9f9448b5519ea9d8685ab3ddff6e62ff9b/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM1399.so
+BuildID: 541ba56eeb4c7438e0010fa81c29f6d7e76a5fe3
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-541ba56eeb4c7438e0010fa81c29f6d7e76a5fe3/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM16804.so
+BuildID: 58165bb6ec699022d97641a9f3728dd8a11c8f96
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-58165bb6ec699022d97641a9f3728dd8a11c8f96/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM256.so
+BuildID: 18c1824b1cb5eb3ee5424b23013df495dd2db8f5
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-18c1824b1cb5eb3ee5424b23013df495dd2db8f5/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM273.so
+BuildID: bc351289eb5b98e6e5e2b8667c9ec4023750dbb4
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-bc351289eb5b98e6e5e2b8667c9ec4023750dbb4/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM274.so
+BuildID: 629f2e04e4682c23c20cbe548b819bd99a6df4e1
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-629f2e04e4682c23c20cbe548b819bd99a6df4e1/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM275.so
+BuildID: e63f535c8b7d8c32b2809881be860f0812960e6b
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-e63f535c8b7d8c32b2809881be860f0812960e6b/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM277.so
+BuildID: 037b9c4e2ae1c3000c7c6ba007dfd6bcc127ee83
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-037b9c4e2ae1c3000c7c6ba007dfd6bcc127ee83/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM278.so
+BuildID: d83c13c13748c534150058141d4383059ed176cd
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-d83c13c13748c534150058141d4383059ed176cd/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM280.so
+BuildID: 2acf23561ab7b4ebeb2660b3c0c586b7b9b81490
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-2acf23561ab7b4ebeb2660b3c0c586b7b9b81490/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM281.so
+BuildID: 8f6e80ef806f4db0965973fea888a0d8a9f0daa9
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-8f6e80ef806f4db0965973fea888a0d8a9f0daa9/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM284.so
+BuildID: 63d9e47871b007eb21057bcc6d4430921e96e57c
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-63d9e47871b007eb21057bcc6d4430921e96e57c/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM285.so
+BuildID: d084b6fd46bcd112b2797e5a06279f9ce1236ec8
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-d084b6fd46bcd112b2797e5a06279f9ce1236ec8/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM290.so
+BuildID: baf22c4a153ca53ff899fa7880a1577a2010a532
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-baf22c4a153ca53ff899fa7880a1577a2010a532/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM297.so
+BuildID: b4f46dafc78428a758ed72d7b93a9e086defa4a0
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-b4f46dafc78428a758ed72d7b93a9e086defa4a0/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM420.so
+BuildID: 19af9d68c4d5086accc0751fe310413372b35365
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-19af9d68c4d5086accc0751fe310413372b35365/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM423.so
+BuildID: 347ba0bc2904ab7fd163839d95c2a209b5142078
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-347ba0bc2904ab7fd163839d95c2a209b5142078/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM424.so
+BuildID: 70100b6991fef2facd3e52dcc2cd5c9baae0f638
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-70100b6991fef2facd3e52dcc2cd5c9baae0f638/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM437.so
+BuildID: 19f848f19cb831a1309e4f67e687c0df01885566
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-19f848f19cb831a1309e4f67e687c0df01885566/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM4517.so
+BuildID: 313c9eb52929a1804707867ee69a9c4e083ea893
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-313c9eb52929a1804707867ee69a9c4e083ea893/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM4899.so
+BuildID: fd45103d7242a51eee31acceee006d1fc793d14e
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-fd45103d7242a51eee31acceee006d1fc793d14e/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM4909.so
+BuildID: f53116ffc7240ed4492097a9e04cc94144069484
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-f53116ffc7240ed4492097a9e04cc94144069484/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM4971.so
+BuildID: e23e4e4f2da626ce12a827b2552e39d7035a5a96
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-e23e4e4f2da626ce12a827b2552e39d7035a5a96/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM500.so
+BuildID: cadceb0d02f928b8db0ddd43ff573b2947db14f9
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-cadceb0d02f928b8db0ddd43ff573b2947db14f9/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM5347.so
+BuildID: 080c0c92769aff4a72401e31220c22f41d4432d3
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-080c0c92769aff4a72401e31220c22f41d4432d3/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM803.so
+BuildID: 3546acdc9d7b2f8e065ec245b0665b49dfc180a0
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-3546acdc9d7b2f8e065ec245b0665b49dfc180a0/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM850.so
+BuildID: ad025d8f535a39058bafe2faf83055def2cbae4b
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-ad025d8f535a39058bafe2faf83055def2cbae4b/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM851.so
+BuildID: 9c638c8ee116d6df4b966be4cf531393892554a9
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-9c638c8ee116d6df4b966be4cf531393892554a9/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM852.so
+BuildID: a72868779be578705c0e373478925c30243f12fe
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-a72868779be578705c0e373478925c30243f12fe/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM855.so
+BuildID: d7b32a8a97e13de558fa0ae059af9d0b239a8178
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-d7b32a8a97e13de558fa0ae059af9d0b239a8178/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM856.so
+BuildID: f9069795b98bde27a03b77471c80bb245061b45b
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-f9069795b98bde27a03b77471c80bb245061b45b/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM857.so
+BuildID: de5af06a9296ef70a5a266d4279f5e51964b1447
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-de5af06a9296ef70a5a266d4279f5e51964b1447/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM858.so
+BuildID: 5734bedf24226b30c3101563830e02c4f7e94825
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-5734bedf24226b30c3101563830e02c4f7e94825/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM860.so
+BuildID: d8a7bcf8916b198588b12da0fe0b6567e7f3f2d1
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-d8a7bcf8916b198588b12da0fe0b6567e7f3f2d1/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM861.so
+BuildID: a41ec2594aa7d5489fbc8bee40290c040dc291a6
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-a41ec2594aa7d5489fbc8bee40290c040dc291a6/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM862.so
+BuildID: 43e46243403e82208fa05ddb9e2cfc32e713fe46
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-43e46243403e82208fa05ddb9e2cfc32e713fe46/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM863.so
+BuildID: 24e96dc3b386ee74fcb24453705ffe3ed9f9933f
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-24e96dc3b386ee74fcb24453705ffe3ed9f9933f/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM864.so
+BuildID: 5626301f1c20b2b33429ea5db09bb36044b7a57c
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-5626301f1c20b2b33429ea5db09bb36044b7a57c/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM865.so
+BuildID: 3488f7ca4bb0a2993b06a38b87384a2e34b440bb
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-3488f7ca4bb0a2993b06a38b87384a2e34b440bb/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM866.so
+BuildID: e92d738ca55085af4409f1127004966b12d3ad6b
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-e92d738ca55085af4409f1127004966b12d3ad6b/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM866NAV.so
+BuildID: e4481824017edc79bd699dd76f89257d55d2ebbc
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-e4481824017edc79bd699dd76f89257d55d2ebbc/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM868.so
+BuildID: 2d8c0b81c13ea0c64b8f0f4dde8484dd8dbd2ada
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-2d8c0b81c13ea0c64b8f0f4dde8484dd8dbd2ada/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM869.so
+BuildID: b2b4ef523183bb257af794757dd4122f096851e1
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-b2b4ef523183bb257af794757dd4122f096851e1/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM870.so
+BuildID: 06ddfd641356d6f730754e8589de952690553d6b
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-06ddfd641356d6f730754e8589de952690553d6b/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM871.so
+BuildID: 67b836315f0a9ab00347d2c27af1a8ba36085152
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-67b836315f0a9ab00347d2c27af1a8ba36085152/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM874.so
+BuildID: 3e66e42749810e89f41b7b2f91ec0f779ce76804
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-3e66e42749810e89f41b7b2f91ec0f779ce76804/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM875.so
+BuildID: 65ef8941b9c3ed2a7a2853dc6e4783a5b895845d
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-65ef8941b9c3ed2a7a2853dc6e4783a5b895845d/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM880.so
+BuildID: 686c9d232dc839dcb6a46bd9a0c90f8a2a776d95
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-686c9d232dc839dcb6a46bd9a0c90f8a2a776d95/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM891.so
+BuildID: c5e41ae0cd7f5de1b644534ea7948691e695cf3a
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-c5e41ae0cd7f5de1b644534ea7948691e695cf3a/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM901.so
+BuildID: 248f11df20fc3d2aad4d6189e7c614c1cffba32b
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-248f11df20fc3d2aad4d6189e7c614c1cffba32b/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM902.so
+BuildID: df6e55b6d470d62e0bbcfb91d0ea72d39a20a7fb
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-df6e55b6d470d62e0bbcfb91d0ea72d39a20a7fb/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM903.so
+BuildID: 775d5c82d855a2bd5f85b24c46f9e3bb71444dc6
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-775d5c82d855a2bd5f85b24c46f9e3bb71444dc6/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM9030.so
+BuildID: 7c612fe8356f6cd8f903fa116a5e29adc43dded1
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-7c612fe8356f6cd8f903fa116a5e29adc43dded1/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM904.so
+BuildID: 544a5f208293983a869b9e1bf93640f8ffb38c75
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-544a5f208293983a869b9e1bf93640f8ffb38c75/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM905.so
+BuildID: 07559707ef389abdb33160de93c3cd6cc8f69a2e
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-07559707ef389abdb33160de93c3cd6cc8f69a2e/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM9066.so
+BuildID: 71f695c80b5fcc041741446c034fc5e8d49c7aac
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-71f695c80b5fcc041741446c034fc5e8d49c7aac/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM918.so
+BuildID: 22dffa4c5ea0b2e28e04d86b462dc5c1dfc3d4c4
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-22dffa4c5ea0b2e28e04d86b462dc5c1dfc3d4c4/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM921.so
+BuildID: 5e1487544004fbafdb4ca9da50d1ff374e95f420
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-5e1487544004fbafdb4ca9da50d1ff374e95f420/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM922.so
+BuildID: 91c5f81bd37d78fc26ee5bd94c5b9cf9e4a34f8a
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-91c5f81bd37d78fc26ee5bd94c5b9cf9e4a34f8a/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM930.so
+BuildID: 0ad861a94477418e77348bab15a4501094ebb645
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-0ad861a94477418e77348bab15a4501094ebb645/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM932.so
+BuildID: dc663b27ccc5a7e58bbdd984a0e1291a545ed9fc
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-dc663b27ccc5a7e58bbdd984a0e1291a545ed9fc/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM933.so
+BuildID: 4dd09bb60ef975e662f8dd344c21deac74e08f1c
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-4dd09bb60ef975e662f8dd344c21deac74e08f1c/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM935.so
+BuildID: 4f419d1797284364584dcd7ff0da470fce0b8a6c
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-4f419d1797284364584dcd7ff0da470fce0b8a6c/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM937.so
+BuildID: 69b6de14084529599d05ec2e9366a7db398ff642
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-69b6de14084529599d05ec2e9366a7db398ff642/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM939.so
+BuildID: f78a80821225438df871d2df12079dd65a3bd721
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-f78a80821225438df871d2df12079dd65a3bd721/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM943.so
+BuildID: 64e29d5cb701d6ef60012b10a91fb50a47448094
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-64e29d5cb701d6ef60012b10a91fb50a47448094/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IBM9448.so
+BuildID: de75368b92dff4c288f3a90c25badb59f4778cd7
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-de75368b92dff4c288f3a90c25badb59f4778cd7/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/IEC_P27-1.so
+BuildID: 7a81da0c6c96447d3a0045eee3cfa61eaaf0a6d2
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-7a81da0c6c96447d3a0045eee3cfa61eaaf0a6d2/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/INIS-8.so
+BuildID: b044a66160b0ab4bfb6dc12427df29d2b61f7a3f
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-b044a66160b0ab4bfb6dc12427df29d2b61f7a3f/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/INIS-CYRILLIC.so
+BuildID: 1250865ea5999801c8abf8aedfb2096cfe190d5d
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-1250865ea5999801c8abf8aedfb2096cfe190d5d/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/INIS.so
+BuildID: 8dcba0c3ddd27aededd2bad61eb43839fe0958b0
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-8dcba0c3ddd27aededd2bad61eb43839fe0958b0/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISIRI-3342.so
+BuildID: 0a0f0583f30cd9a654299ec57d47c762a46913cf
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-0a0f0583f30cd9a654299ec57d47c762a46913cf/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO-2022-CN-EXT.so
+BuildID: bb689114f23c5bda9de3dc0a06c16c4e6a604a00
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-bb689114f23c5bda9de3dc0a06c16c4e6a604a00/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO-2022-CN.so
+BuildID: 6b44acc7c5f8c27fa9d4af7ca38651b54d5f2a6d
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-6b44acc7c5f8c27fa9d4af7ca38651b54d5f2a6d/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO-2022-JP-3.so
+BuildID: d9548ba0b866c00c258c2eea57798749bd907802
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-d9548ba0b866c00c258c2eea57798749bd907802/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO-2022-JP.so
+BuildID: 0f7fe6ea946924d91d9001da069d251ec1a7d53b
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-0f7fe6ea946924d91d9001da069d251ec1a7d53b/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO-2022-KR.so
+BuildID: 780e3638335d1756bf1f7ff0297a527596734ec9
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-780e3638335d1756bf1f7ff0297a527596734ec9/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO-IR-197.so
+BuildID: b5f446ed0609edba6506a37f6ef3da4178f0dcba
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-b5f446ed0609edba6506a37f6ef3da4178f0dcba/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO-IR-209.so
+BuildID: ca876fd9e93309f577d11850c671effb3ee6b103
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-ca876fd9e93309f577d11850c671effb3ee6b103/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO646.so
+BuildID: 6543f7e74a47ce06ede4a819e42f94ea0f37792c
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-6543f7e74a47ce06ede4a819e42f94ea0f37792c/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO8859-1.so
+BuildID: aad53a41c628230eed3566ab4eed27ec3aba400a
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-aad53a41c628230eed3566ab4eed27ec3aba400a/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO8859-10.so
+BuildID: 86deab0d1f328343059b783f485f95b83ff28a3c
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-86deab0d1f328343059b783f485f95b83ff28a3c/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO8859-11.so
+BuildID: f9feebbcb1d9315377a9504beeed40fa3f69e7aa
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-f9feebbcb1d9315377a9504beeed40fa3f69e7aa/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO8859-13.so
+BuildID: 11299ba5d0d98e1581524643799569934de5af6a
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-11299ba5d0d98e1581524643799569934de5af6a/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO8859-14.so
+BuildID: 3ab55b48f1dc79a02a88d5b0226d441437234f95
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-3ab55b48f1dc79a02a88d5b0226d441437234f95/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO8859-15.so
+BuildID: ac7c96e68344cbf1188833af1448733c34138895
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-ac7c96e68344cbf1188833af1448733c34138895/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO8859-16.so
+BuildID: 1cef69e6e19b0cc1d06d3a68c133c394268c9494
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-1cef69e6e19b0cc1d06d3a68c133c394268c9494/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO8859-2.so
+BuildID: 8e8dad6af55f22084c4734f00fe0ec03c00da035
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-8e8dad6af55f22084c4734f00fe0ec03c00da035/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO8859-3.so
+BuildID: e6c8fa67edf17e931ca80c07be44a3c0335a4a7f
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-e6c8fa67edf17e931ca80c07be44a3c0335a4a7f/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO8859-4.so
+BuildID: 1539c6febf8cfddf60ecc7179b0d9d355a4574ac
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-1539c6febf8cfddf60ecc7179b0d9d355a4574ac/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO8859-5.so
+BuildID: 4759b68d879bd47bcc73ac595b8f7b4a5bd043c3
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-4759b68d879bd47bcc73ac595b8f7b4a5bd043c3/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO8859-6.so
+BuildID: 7a6b775349d553cc24f05dac4a9fb8cb59c5e687
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-7a6b775349d553cc24f05dac4a9fb8cb59c5e687/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO8859-7.so
+BuildID: a058124b460376e1bc3317554413ce0cd40c6f48
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-a058124b460376e1bc3317554413ce0cd40c6f48/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO8859-8.so
+BuildID: a6b43a31070fda0d15416104358f05618deb1947
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-a6b43a31070fda0d15416104358f05618deb1947/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO8859-9.so
+BuildID: 4de99d4037d3be12341e916b4fbc0842e1f04336
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-4de99d4037d3be12341e916b4fbc0842e1f04336/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO8859-9E.so
+BuildID: 38e9a4b3aef31ffad07f394f3de16ff02cae9250
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-38e9a4b3aef31ffad07f394f3de16ff02cae9250/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO_10367-BOX.so
+BuildID: 2b6d2c471762644f09e0b10ec985e9b7f446c711
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-2b6d2c471762644f09e0b10ec985e9b7f446c711/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO_11548-1.so
+BuildID: fe4516a162e2434328e7215a30dead154b5c50d9
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-fe4516a162e2434328e7215a30dead154b5c50d9/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO_2033.so
+BuildID: a6ab93a04bbf95b66d6d22ceb71573bd1384023c
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-a6ab93a04bbf95b66d6d22ceb71573bd1384023c/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO_5427-EXT.so
+BuildID: 008bb7822b2892cf3cab0fa6ebbd6e920434b8ac
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-008bb7822b2892cf3cab0fa6ebbd6e920434b8ac/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO_5427.so
+BuildID: 015d3e0549908ffd614aec2ff1b942c54bece3d2
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-015d3e0549908ffd614aec2ff1b942c54bece3d2/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO_5428.so
+BuildID: d4456c6a6f9480306625e054f2a638898610393d
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-d4456c6a6f9480306625e054f2a638898610393d/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO_6937-2.so
+BuildID: eacb7cb15a6d7290f0319fc4e94b6accad8b05a4
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-eacb7cb15a6d7290f0319fc4e94b6accad8b05a4/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/ISO_6937.so
+BuildID: fc6503f92a0085874bad4873a083b978949178f7
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-fc6503f92a0085874bad4873a083b978949178f7/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/JOHAB.so
+BuildID: 04a48d52b57616fd8d8bb6bfcdd67bc4bacf9fb5
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-04a48d52b57616fd8d8bb6bfcdd67bc4bacf9fb5/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/KOI-8.so
+BuildID: 74f248dfebed7d841cbe682785b2def392ea35c1
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-74f248dfebed7d841cbe682785b2def392ea35c1/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/KOI8-R.so
+BuildID: b193da69e6ad8fae9c564e4db4172767552f8216
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-b193da69e6ad8fae9c564e4db4172767552f8216/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/KOI8-RU.so
+BuildID: 099d62bb71c857ca874a9e3ac2ab91267976cdc1
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-099d62bb71c857ca874a9e3ac2ab91267976cdc1/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/KOI8-T.so
+BuildID: c0ba71c22fe2d68ec68cb28eecf1a323ecbd7cd0
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-c0ba71c22fe2d68ec68cb28eecf1a323ecbd7cd0/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/KOI8-U.so
+BuildID: fb0e11158a446967b7e938c92caa25e5adbffd69
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-fb0e11158a446967b7e938c92caa25e5adbffd69/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/LATIN-GREEK-1.so
+BuildID: ae73ef2a8918d4e781268e8ba749485952b51540
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-ae73ef2a8918d4e781268e8ba749485952b51540/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/LATIN-GREEK.so
+BuildID: 8a36f33d66d0e6b8f3603afd0e22935d9d9bbfe3
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-8a36f33d66d0e6b8f3603afd0e22935d9d9bbfe3/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/MAC-CENTRALEUROPE.so
+BuildID: 4cde110f290f89e56e299e5f4e6340fa64ab9f30
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-4cde110f290f89e56e299e5f4e6340fa64ab9f30/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/MAC-IS.so
+BuildID: 57079b64384f213daa73530dd46c145a8f733933
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-57079b64384f213daa73530dd46c145a8f733933/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/MAC-SAMI.so
+BuildID: d4b4aada6167493581949b4c8ffecd78f2c93134
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-d4b4aada6167493581949b4c8ffecd78f2c93134/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/MAC-UK.so
+BuildID: 8553bfba2d272059886c1a8304ff72fd60ebba7c
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-8553bfba2d272059886c1a8304ff72fd60ebba7c/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/MACINTOSH.so
+BuildID: d342ecf70a46ab071510cb560a03ec39e43a015d
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-d342ecf70a46ab071510cb560a03ec39e43a015d/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/MIK.so
+BuildID: d15a285dcdb3d44b7084db6ae70d7bfd54836c4a
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-d15a285dcdb3d44b7084db6ae70d7bfd54836c4a/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/NATS-DANO.so
+BuildID: 7c67876bad22bef0014f04b9f0abff53c69fc3f9
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-7c67876bad22bef0014f04b9f0abff53c69fc3f9/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/NATS-SEFI.so
+BuildID: a68d72160d2d96cdf91eda03a893092f10fb5ccb
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-a68d72160d2d96cdf91eda03a893092f10fb5ccb/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/PT154.so
+BuildID: 76c89b2307ec3e0cc4c71a5ae8989384b1850686
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-76c89b2307ec3e0cc4c71a5ae8989384b1850686/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/RK1048.so
+BuildID: fe9a3d8b2cc0cec0cbd4e1e017b04bfe90d6a8fe
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-fe9a3d8b2cc0cec0cbd4e1e017b04bfe90d6a8fe/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/SAMI-WS2.so
+BuildID: 61de7722bf47c8007621d4de9bedacd1b56bc0db
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-61de7722bf47c8007621d4de9bedacd1b56bc0db/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/SHIFT_JISX0213.so
+BuildID: 710e7e876056ed8fb747ca660e263280317fbd48
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-710e7e876056ed8fb747ca660e263280317fbd48/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/SJIS.so
+BuildID: bdfa9d4e59ce14a4d905bd3c42b8ef45b79d3fc9
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-bdfa9d4e59ce14a4d905bd3c42b8ef45b79d3fc9/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/T.61.so
+BuildID: cc47edfda306f0207b969a00f68b2463a8f2cc02
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-cc47edfda306f0207b969a00f68b2463a8f2cc02/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/TCVN5712-1.so
+BuildID: 7072ad6fbd936e774b13914cc0cba6b91a21ce5b
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-7072ad6fbd936e774b13914cc0cba6b91a21ce5b/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/TIS-620.so
+BuildID: 835687d0eb2d758f8f969a6536f22b37f23b6837
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-835687d0eb2d758f8f969a6536f22b37f23b6837/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/TSCII.so
+BuildID: 6086412f2687d0482c891dcbd5992af9a4b21d66
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-6086412f2687d0482c891dcbd5992af9a4b21d66/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/UHC.so
+BuildID: fcfaf6d3a2f522724cf1b6aa647601bf97157123
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-fcfaf6d3a2f522724cf1b6aa647601bf97157123/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/UNICODE.so
+BuildID: 73b430d93047ab177ae0ca0b3b58c6f4dddfd3db
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-73b430d93047ab177ae0ca0b3b58c6f4dddfd3db/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/UTF-16.so
+BuildID: cea7ae61b784315f86f4249651535638b4247bd2
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-cea7ae61b784315f86f4249651535638b4247bd2/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/UTF-32.so
+BuildID: 9ed7784a5317fb85b6c25f7ea088f46bbb266499
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-9ed7784a5317fb85b6c25f7ea088f46bbb266499/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/UTF-7.so
+BuildID: 34e3ebc89f201da90e3a6d1460ba0c2bd1128afd
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-34e3ebc89f201da90e3a6d1460ba0c2bd1128afd/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/VISCII.so
+BuildID: c81fa31bb94086ed36eaaf7a6b9c8eb075796b52
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-c81fa31bb94086ed36eaaf7a6b9c8eb075796b52/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/libCNS.so
+BuildID: b82adb19657a24be125d1680d6f5712b545e6ce1
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-b82adb19657a24be125d1680d6f5712b545e6ce1/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/libGB.so
+BuildID: 9cebdb60d32715770f74b03a6640ab976460b0dc
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-9cebdb60d32715770f74b03a6640ab976460b0dc/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/libISOIR165.so
+BuildID: fc27300d1e03e30cec8d362157da51a7af529b3d
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-fc27300d1e03e30cec8d362157da51a7af529b3d/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/libJIS.so
+BuildID: 353b20f1146057830c61e22ab683e75d816744e8
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-353b20f1146057830c61e22ab683e75d816744e8/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/libJISX0213.so
+BuildID: 9c733da99a819fef7572a1a19a125db6c2172ce0
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-9c733da99a819fef7572a1a19a125db6c2172ce0/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/gconv/libKSC.so
+BuildID: 0bbf01d2afaa746770781d8a59aad34ec33e5155
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-0bbf01d2afaa746770781d8a59aad34ec33e5155/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/getconf/POSIX_V6_LP64_OFF64
+BuildID: d436daaf49b616eb442c2bb2d93ab4c6d9c66f0f
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-d436daaf49b616eb442c2bb2d93ab4c6d9c66f0f/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/ld-linux-x86-64.so.2
+BuildID: 6eef2572003c00452e786d382412209fc723051e
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-6eef2572003c00452e786d382412209fc723051e/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/libBrokenLocale.so.1
+BuildID: 769da7da5d8d288dea75c0c659197ae15788d7b9
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-769da7da5d8d288dea75c0c659197ae15788d7b9/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/libanl.so.1
+BuildID: 53b3f5860afb2968668273611f6e2d331912c1f6
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-53b3f5860afb2968668273611f6e2d331912c1f6/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/libc.so.6
+BuildID: d8ceb52a8c6e1fefece4ca75f7396d1d5bffc565
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-d8ceb52a8c6e1fefece4ca75f7396d1d5bffc565/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/libc_malloc_debug.so.0
+BuildID: 4cf68e8c12d66fb59b19d22c53518bc162326aac
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-4cf68e8c12d66fb59b19d22c53518bc162326aac/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/libdl.so.2
+BuildID: 75730930d2c1f5c3a4bb12702bbdcc3dbf3afd5f
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-75730930d2c1f5c3a4bb12702bbdcc3dbf3afd5f/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/libm.so.6
+BuildID: f6d1c324c9b35bc9f509e328ef04f5113bf2d276
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-f6d1c324c9b35bc9f509e328ef04f5113bf2d276/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/libmemusage.so
+BuildID: 1ac6a8f827466ad215039955b10fa8b16cfc5308
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-1ac6a8f827466ad215039955b10fa8b16cfc5308/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/libmvec.so.1
+BuildID: 10a46bd8ee2cdc2f96d83e9b68ff9a78b84bff0f
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-10a46bd8ee2cdc2f96d83e9b68ff9a78b84bff0f/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/libnsl.so.1
+BuildID: 461ef5d515d119121e650cd2eeb35665e5c9bd1d
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-461ef5d515d119121e650cd2eeb35665e5c9bd1d/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/libnss_compat.so.2
+BuildID: 30ae33d06df11c4dc52785d058f157ddec19d02d
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-30ae33d06df11c4dc52785d058f157ddec19d02d/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/libnss_db.so.2
+BuildID: 7e836388f5dd5c1efab27408d8328fd350f7b7aa
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-7e836388f5dd5c1efab27408d8328fd350f7b7aa/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/libnss_dns.so.2
+BuildID: 68d200c972b2b0108d66158dedae20cc193b7cae
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-68d200c972b2b0108d66158dedae20cc193b7cae/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/libnss_files.so.2
+BuildID: a85fbfd481e40f2e323c9da9d4d9c6f0542f7975
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-a85fbfd481e40f2e323c9da9d4d9c6f0542f7975/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/libnss_hesiod.so.2
+BuildID: 79cd2f217d0389f5cc356c4cb981c6baf0d262a3
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-79cd2f217d0389f5cc356c4cb981c6baf0d262a3/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/libpcprofile.so
+BuildID: 2a70fc8c9270ca2d3bb12c09914170a897c9f538
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-2a70fc8c9270ca2d3bb12c09914170a897c9f538/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/libpthread.so.0
+BuildID: 2cfaed7c67875d683fe89a5525d2f5a8caf252b4
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-2cfaed7c67875d683fe89a5525d2f5a8caf252b4/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/libresolv.so.2
+BuildID: 917fbfc13339b565854e1a4b8099b9d9be593598
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-917fbfc13339b565854e1a4b8099b9d9be593598/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/librt.so.1
+BuildID: 0545795be9f3363d060b2381da344af31be442cd
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-0545795be9f3363d060b2381da344af31be442cd/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/libthread_db.so.1
+BuildID: 712d807524704bb91ec02ab97f830314fb821fb7
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-712d807524704bb91ec02ab97f830314fb821fb7/debuginfo
+
+PackageName: glibc
+FilePath: /usr/lib/libutil.so.1
+BuildID: f707c4c1dddd53075a6dd708b149267dfa165b87
+Version: 2.43+r37+gfdf10644d6ee-1
+URL: https://raw.githubusercontent.com/IngoMeyer441/arch-debuginfo-archive/buildid-f707c4c1dddd53075a6dd708b149267dfa165b87/debuginfo
+
